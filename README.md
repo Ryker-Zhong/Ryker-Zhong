@@ -8,15 +8,14 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong)
 
 -->
-
 I record my learning, share experiences, and consolidate my thoughts here, as well as document those moments of tinkering and exploration.
 
 ## Organizations
-[![SRE-STAR](https://avatars.githubusercontent.com/u/123456789?s=200&v=4)](https://github.com/SRE-STAR)
+[![你的组织名称](组织头像链接)](组织GitHub地址)
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&layout=compact)
 <!--
 **Ryker-Zhong/Ryker-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
