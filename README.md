@@ -9,8 +9,8 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 
 -->
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&layout=compact&theme=dark)
+![Jasmine-Zhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&hide=contribs,prs&show_icons=true&theme=dark&width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&layout=compact&theme=dark&width=500)
 
 ---
 
