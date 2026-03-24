@@ -12,16 +12,8 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 I record my learning, share experiences, and consolidate my thoughts here, as well as document those moments of tinkering and exploration.
 
 ## GitHub Stats
-<div style="display: flex; gap: 10px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&hide=prs,contribs&show_icons=true&theme=light&title_color=0078d4" 
-    style="width: 500px; height: 250px; object-fit: cover;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&layout=compact&theme=light&title_color=0078d4" 
-    style="width: 500px; height: 250px; object-fit: cover;"
-  />
-</div>
+![Jasmine-Zhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&hide=prs,contribs&show_icons=true&width=500&height=250&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&layout=compact&width=500&height=250&theme=light)
 
 <!--
 **Ryker-Zhong/Ryker-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
