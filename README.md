@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-This is an online private space for an IT enthusiast.
 I record my learning, share experiences, and consolidate my thoughts here, as well as document those moments of tinkering and exploration.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong)
