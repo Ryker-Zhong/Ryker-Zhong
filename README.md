@@ -1,14 +1,11 @@
 ## Hi there 👋
 
 This is an online private space for an IT enthusiast.
-
-Out of a love for programming, networking, digital technology, and various kinds of technolog.
-
 I record my learning, share experiences, and consolidate my thoughts here, as well as document those moments of tinkering and exploration.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong)
 <!--
 **Ryker-Zhong/Ryker-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
