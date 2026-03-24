@@ -10,12 +10,11 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 -->
 I record my learning, share experiences, and consolidate my thoughts here, as well as document those moments of tinkering and exploration.
 
-## Organizations
-[![你的组织名称](组织头像链接)](组织GitHub地址)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&layout=compact)
+
 <!--
 **Ryker-Zhong/Ryker-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
