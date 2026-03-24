@@ -12,7 +12,7 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 I record my learning, share experiences, and consolidate my thoughts here, as well as document those moments of tinkering and exploration.
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&width=1000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&width=8000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&width=450)
 
 
