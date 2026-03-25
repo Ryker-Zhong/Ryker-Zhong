@@ -6,6 +6,7 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong)
 
 -->
+## 🤖 About Me
 - 🔭 **Main Quest:** Personal Robotics & Embedded System Projects
 - 🌱 **Leveling Up:** C++ Optimization, ROS, Front-end Visualization
 - 👯 **Party Up:** Open-source robotics, Algo Visualization, Educational Coding
@@ -38,33 +39,7 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 
 ---
 
-## 🤖 About Me
 
-- 🔭 **Currently Working On:** Personal Robotics & Embedded System Projects
-- 🌱 **Currently Learning:** C++ Performance Optimization, ROS, Front-end Visualization
-- 👯 **Looking to Collaborate:** Open-source Robotics, Algorithm Visualization, Educational Coding
-- 🤔 **Need Help With:** Advanced CMake Configuration & Real-time System Debugging
-- 💬 **Ask Me About:** Python, C/C++, Embedded Development, GitHub Profile Customization
-- 📫 **Reach Me:** [Your Email] | [Your LinkedIn/GitHub Issues]
-- 😄 **Pronouns:** he/him
-- ⚡ **Fun Fact:** I once built a small robot to solve my own desk organization problems 🤖
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/YOUR_USERNAME" alt="Contribution Graph" />
-</p>
 
 <!--
 **Ryker-Zhong/Ryker-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
