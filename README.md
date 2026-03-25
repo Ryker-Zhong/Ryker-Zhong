@@ -15,13 +15,10 @@
 ## 🛠️ Tech Stack
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,c" />
-
 ### Robotics
 <img src="https://skillicons.dev/icons?i=ros,linux,docker" />
-
 ### Tools
 <img src="https://skillicons.dev/icons?i=cmake,git,github,vscode" />
-
 ### Hardware
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
 
