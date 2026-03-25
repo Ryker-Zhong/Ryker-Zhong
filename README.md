@@ -21,12 +21,6 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 ![Ryker-Zhong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 
-# 👋 Hi, I'm a Robotics & Embedded Developer
-
-![Profile Banner](https://capsule-render.vercel.app/api?type=writing&color=auto&height=300&section=header&text=Robotics%20Engineer&fontSize=90)
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
