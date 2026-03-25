@@ -23,17 +23,22 @@ I record my learning, share experiences, and consolidate my thoughts here, as we
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,c,git,github" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,cmake,vscode" />
-</p>
+</p> -->
 
----
+## 💻 Skills
 
-
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,python,c" /> |
+| **Robotics** | <img src="https://skillicons.dev/icons?i=ros,linux,docker" /> |
+| **Tools** | <img src="skillicons.dev/icons?i=cmake,git,github,vscode" /> |
+| **Hardware** | <img src="https://skillicons.dev/icons?i=arm,raspberrypi,arduino" /> |
 
 <!--
 **Ryker-Zhong/Ryker-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
