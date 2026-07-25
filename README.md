@@ -8,9 +8,8 @@
 
 
 ## GitHub Stats
-![Ryker-Zhong's Stats](https://github-readme-stats.vercel.app/api?username=Ryker-Zhong&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-![Ryker-Zhong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryker-Zhong&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
-
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryker-Zhong&theme=blueberry)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryker-Zhong&theme=blueberry)
 
 ## 🛠️ Tech Stack
 ### Languages
